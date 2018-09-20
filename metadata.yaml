@@ -1,0 +1,29 @@
+_repo: In-the-Firing-Line-Stories-of-the-War-by-Land-and-Sea_53151
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adcock, Arthur St. John
+    alias: Adcock, A. St. John
+    birthdate: 1864
+    deathdate: 1930
+    gutenberg_agent_id: '42663'
+    url: http://www.gutenberg.org/2009/agents/42663
+description: ''
+gutenberg_issued: '2016-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53151'
+  lccn: '15003031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918'
+- GITenberg
+tableOfContents: The baptism of fire -- The four days' battle near Mons -- The destruction
+  of Louvain -- The fight in the North Sea -- From Mons to the walls of Paris -- The
+  spirit of victory.
+title: 'In the Firing Line: Stories of the War by Land and Sea'
+url: http://www.gutenberg.org/ebooks/53151
